@@ -1,0 +1,8 @@
+#Regex characters.
+
+\d #Any numeric digit 0-9
+\D #Any charcter that is not a number that is 0-9
+\w #Any letter, numeric digit or the underscore.
+\W #Any character that is not a letter, numeric digit or an underscore.
+\s #Any space tab or newline characters.
+\S #Anything that is not a space tab or newline
